@@ -1,1 +1,1 @@
-# kakeibo
+# finance-app
